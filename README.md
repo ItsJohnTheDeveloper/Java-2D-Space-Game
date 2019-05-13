@@ -1,4 +1,8 @@
 # Java-2D-Space-Game
-Cool little space game coded first year in college using Java
+Cool space game I coded first year in college with Java
 
-Test the game out:
+To test the game follow these simple steps:
+
+On github repository, click dropdown 'Clone or download'.
+Click 'Download ZIP'.
+Unzip the folder and navigate to 'Game.class' and open it.
